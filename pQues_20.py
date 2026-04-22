@@ -34,6 +34,12 @@
 # 1800
 # Hint:
 # Update balance only if both conditions are satisfied.
+
+
+
+
+
+
 # 2️
 # . Smart Electricity Billing
 # Problem Statement
@@ -52,6 +58,17 @@
 # 1540
 # Hint:
 # Apply slabs incrementally, then apply surcharge conditionally.
+
+
+
+
+
+
+
+
+
+
+
 # 3️
 # . Password Strength Evaluator
 # Problem Statement
@@ -70,6 +87,19 @@
 # STRONG
 # Hint:
 # Loop through characters and count conditions manually.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 4️
 # . Traffic Signal Simulation
 # Problem Statement
@@ -88,6 +118,17 @@
 # YELLOW
 # Hint:
 # Use modulo arithmetic and range checks.
+
+
+
+
+
+
+
+
+
+
+
 # 5️
 # . Salary Deduction System
 # Problem Statement
@@ -110,6 +151,17 @@
 # 47500
 # Hint:
 # Apply deductions cumulatively, not exclusively.
+
+
+
+
+
+
+
+
+
+
+
 # 6️
 # . Prime Range Analyzer
 # Problem Statement
@@ -126,6 +178,19 @@
 # 6
 # Hint:
 # Check divisibility up to √n.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 7️
 # . Online Order Discount Engine
 # Problem Statement
@@ -145,6 +210,13 @@
 # 2880
 # Hint:
 # Apply only one highest applicable discount.
+
+
+
+
+
+
+
 # 8️
 # . Binary to Decimal Converter (Without Built-in)
 # Problem Statement
@@ -159,6 +231,12 @@
 # 45
 # Hint:
 # Process digits from right to left using powers of 2.
+
+
+
+
+
+
 # 9️
 # .Mobile Battery Drain Simulator
 # Problem Statement
@@ -173,6 +251,12 @@
 # 15
 # Hint:
 # Use a loop until battery <= 0.
+
+
+
+
+
+
 # 10. Exam Result Processor
 # Problem Statement
 # Input marks for 5 subjects:
@@ -189,6 +273,13 @@
 # DISTINCTION
 # Hint:
 # First validate failure condition, then classify.
+
+
+
+
+
+
+
 # 11. Number Compression Counter
 # Problem Statement
 # Given a number, count how many times it can be divided by 2 until it becomes odd.
@@ -202,6 +293,13 @@
 # 3
 # Hint:
 # Use a loop and modulo check.
+
+
+
+
+
+
+
 # 12️ . Vowel Frequency Analyzer
 # Problem Statement
 # Count total vowels in a given sentence (case-insensitive).
@@ -215,6 +313,18 @@
 # 4
 # Hint:
 # Normalize case before comparison.
+
+
+
+
+
+
+
+
+
+
+
+
 # 13️ . Train Ticket Fare Calculator
 # Problem Statement
 # Fare rules:
@@ -233,6 +343,15 @@
 # 280
 # Hint:
 # Calculate base fare first, then apply age-based rule.
+
+
+
+
+
+
+
+
+
 # 14️ . Number Pattern Validator
 # Problem Statement
 # Check if digits of a number are strictly increasing left to right.
@@ -246,6 +365,15 @@
 # YES
 # Hint:
 # Compare adjacent digits.
+
+
+
+
+
+
+
+
+
 # 15️ . Smart Door Lock System
 # Problem Statement
 # User gets 3 attempts to enter correct PIN.
@@ -267,6 +395,14 @@
 # ACCESS GRANTED
 # Hint:
 # Exit loop early on success.
+
+
+
+
+
+
+
+
 # 16️ . Water Tank Overflow Detector
 # Problem Statement
 # Tank capacity is 1000L. Inflow every minute given. Stop when overflow occurs and print minute number.
@@ -282,6 +418,12 @@
 # 4
 # Hint :
 # Accumulate volume gradually.
+
+
+
+
+
+
 # 17️ . Armstrong Number Checker
 # Problem Statement
 # Check if a number equals sum of cubes of its digits.
@@ -295,6 +437,16 @@
 # YES
 # Hint:
 # Extract digits using modulo and division.
+
+
+
+
+
+
+
+
+
+
 # 18️ . Bus Seat Allocation
 # Problem Statement
 # Bus has 40 seats. For each booking request:
@@ -318,6 +470,15 @@
 # WAITLISTED
 # Hint:
 # Track remaining seats.
+
+
+
+
+
+
+
+
+
 # 19️ . Number Mirror Validator
 # Problem Statement
 # Reverse a number and check if original equals reversed.
@@ -331,6 +492,17 @@
 # PALINDROME
 # Hint:
 # Build reverse using arithmetic.
+
+
+
+
+
+
+
+
+
+
+
 # 20️ . Digital Lock Countdown
 # Problem Statement
 # Given a number, repeatedly subtract sum of its digits until result is a single digit.
