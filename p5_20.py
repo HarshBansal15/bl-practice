@@ -6,3 +6,4 @@ if absent>=2:
     salary=salary-(salary*5)/100 
 print(salary)
 
+
