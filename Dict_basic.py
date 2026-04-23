@@ -5,3 +5,5 @@ dict = {
 }
 
 print(dict)
+print(dict.keys())
+print(len(dict))#gives total keys  
